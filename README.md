@@ -4,9 +4,9 @@ This repositories contain core java programs, Please find below listed programs 
 ## Programs name and explanation
 
 1>file name<br />
-This proram contain explain 
-2>file name 
-This program contain explain
+This proram contain explain <br />
+2>file name <br />
+This program contain explain <br />
 
 
 
