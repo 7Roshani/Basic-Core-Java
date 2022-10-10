@@ -17,5 +17,5 @@ This program contain explain <br />
 <br />
 <br />
 Thanks and Regards, <br />
-<pre> **Roshani Mane**</pre>  <br />
-**roshumane@gmail.com** <br />
+Roshani Mane<br />
+roshumane@gmail.com <br />
