@@ -1,5 +1,5 @@
 # Basic-Core-Java
-This repositary contain core java programs, Please find below listed programs file name and explanation.
+This repositories contain core java programs, Please find below listed programs file name and explanation.
 
 ## Programs name and explanation
 
