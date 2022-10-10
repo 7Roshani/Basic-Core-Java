@@ -8,6 +8,6 @@ This proram contain explain
 2>file name 
 This program contain explain
 
-###Thanks and Regards,
-###Roshani Mane
-###roshumane@gmail.com 
+### Thanks and Regards,
+### Roshani Mane
+### roshumane@gmail.com 
