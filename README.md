@@ -14,6 +14,6 @@ This program contain explain <br />
 
 
 
-&nbsp;Thanks and Regards, &nbsp; 
-### Roshani Mane &nbsp;
-### roshumane@gmail.com 
+Thanks and Regards, 
+Roshani Mane 
+roshumane@gmail.com 
